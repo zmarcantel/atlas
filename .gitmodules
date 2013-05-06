@@ -1,0 +1,3 @@
+[submodule "doric"]
+	path = doric
+	url = https://github.com/zmarcantel/doric.git
